@@ -6,7 +6,8 @@ export const SITE: Site = {
   author: "Parthenon",
   desc: "A blog about development, tech, and more.",
   title: "parth-time dev",
-  ogImage: "astropaper-og.png",
+  ogImage:
+    "https://res.cloudinary.com/parthproject/image/upload/v1718924357/wrp8ybmstwnaru7qgoph.png",
   lightAndDarkMode: true,
   postPerPage: 4,
   scheduledPostMargin: 15 * 60 * 1000, // 15 minutes

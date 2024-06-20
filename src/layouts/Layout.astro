@@ -10,6 +10,7 @@ export interface Props {
   author?: string;
   description?: string;
   ogImage?: string;
+  site_name?: string;
   canonicalURL?: string;
   pubDatetime?: Date;
   modDatetime?: Date | null;
@@ -21,6 +22,7 @@ const {
   author = SITE.author,
   description = SITE.desc,
   ogImage = SITE.ogImage,
+  site_name = SITE.site_name,
   canonicalURL = new URL(Astro.url.pathname, Astro.site).href,
   pubDatetime,
   modDatetime,
