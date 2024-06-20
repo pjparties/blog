@@ -7,7 +7,7 @@ export const SITE: Site = {
   title: "Parth-Time Developer",
   ogImage: "astropaper-og.jpg",
   lightAndDarkMode: true,
-  postPerPage: 6,
+  postPerPage: 4,
   scheduledPostMargin: 15 * 60 * 1000, // 15 minutes
 };
 
