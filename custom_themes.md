@@ -13,8 +13,8 @@
     - color-fill: 29,34,42;
     - color-text-base: 173,218,255;
     - color-accent: 244, 76, 127;
-    - color-card: 29,30,33;
-    - color-card-muted: 25,25,25;
+    - color-card: 25,25,25;
+    - color-card-muted: 29,30,33;
     - color-border: 147,158,174;
 
 - ### dracula

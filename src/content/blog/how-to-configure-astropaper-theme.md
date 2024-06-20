@@ -1,18 +1,18 @@
 ---
-author: Sat Naing
+author: Parth
 pubDatetime: 2022-09-23T04:58:53Z
 modDatetime: 2024-01-15T13:05:56.066Z
-title: How to configure AstroPaper theme
-slug: how-to-configure-astropaper-theme
+title: How to configure Connection Pooling in Flask
+slug: how-to-configure-connection-pooling-in-flask
 featured: true
 draft: false
 tags:
   - configuration
   - docs
-description: How you can make AstroPaper theme absolutely yours.
+description: A guide to configuring connection pooling in Flask for better performance.
 ---
 
-AstroPaper is a highly customizable Astro blog theme. With AstroPaper, you can customize everything according to your personal taste. This article will explain how you can make some customizations easily in the config file.
+lorem ipsum dolor sit amet consectetur adipiscing elit sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 ## Table of contents
 
