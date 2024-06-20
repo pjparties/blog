@@ -1,7 +1,7 @@
 ---
 author: Parth
-pubDatetime: 2022-09-23T04:58:53Z
-modDatetime: 2024-01-15T13:05:56.066Z
+pubDatetime: 2024-06-20T04:58:53Z
+modDatetime: 2024-06-20T13:05:56.066Z
 title: How to configure Connection Pooling in Flask
 slug: how-to-configure-connection-pooling-in-flask
 featured: true
