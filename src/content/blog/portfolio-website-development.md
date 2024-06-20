@@ -4,7 +4,7 @@ author: Parth
 pubDatetime: 2024-06-19T16:55:12.000+00:00
 slug: how-do-i-develop-my-portfolio-and-blog
 featured: false
-draft: false
+draft: true
 tags:
   - NextJS
   - TailwindCSS
